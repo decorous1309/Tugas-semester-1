@@ -21,6 +21,6 @@ public class tugasantrean15 {
         System.out.println  ("salah input");
         break;
         }
-
+       input.close();
     }
 }

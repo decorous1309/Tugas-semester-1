@@ -1,4 +1,5 @@
 {
     "java.help.collectErrorLog": true,
-    "java.help.firstView": "auto"
+    "java.help.firstView": "auto",
+    "java.debug.settings.onBuildFailureProceed": true
 }

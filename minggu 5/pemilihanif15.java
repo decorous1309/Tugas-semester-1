@@ -8,8 +8,10 @@ public class pemilihanif15 {
         if (uktPaid) {
         System.out.println("Pembayaran Ukt terverifikasi");
         System.out.println("Silakan cetak KRS dan minta tanda tangan DPA");
-        sc.close();
+        } else{
+            System.out.println("registrasi ditolak");
+            System.out.println("silahkan lunasi ukt terlebih dahulu");
         }
-
+        sc.close();
     }
 }

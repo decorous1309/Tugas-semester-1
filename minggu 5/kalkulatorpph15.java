@@ -4,7 +4,6 @@ public class kalkulatorpph15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("---Kalkulator PPh21---");
         System.out.print("Masukkan PKP: ");
         double pkp = sc.nextDouble();
         double pph;

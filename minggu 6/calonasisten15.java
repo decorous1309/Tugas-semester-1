@@ -18,7 +18,7 @@ public class calonasisten15 {
                 if ( wawancara > 75){
                     System.out.println(" selamaat anda di terima sebagai asisten");
                 }else {
-                    System.out.println("maaf nilai wawancar tidak memadai");
+                    System.out.println("maaf nilai wawancara tidak memadai");
                 }
             } else {
                 System.out.println(" Nilai kurang memadai atau tidak memiliki sertifikat");

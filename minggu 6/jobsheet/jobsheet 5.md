@@ -1,4 +1,4 @@
-# JOBSHEET 5 - PEMILIHAN 2
+# JOBSHEET 4 - PEMILIHAN 1
 
 **Identitas Mahasiswa:**
 * **Nama:** Fahri Raihan Baldan
@@ -58,7 +58,7 @@ public class nestedujianskripsi15 {
 #### 2.1.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![alt text](SS_1.png)
+
 
 #### 2.1.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen? Mengapa demikian?
@@ -106,8 +106,11 @@ public class operatorlogikawif15 {
 }
 ```
 
+#### 2.2.2 Hasil Running / Screenshot Output
+Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-#### 2.2.2 tabel output dan hasil screenshot nya
+
+#### 2.2.3 tabel output dan hasil screenshot nya
 
 menguji output yang ada:
 
@@ -119,12 +122,8 @@ menguji output yang ada:
 | 3 | false | false | false |
 
 **screnshot**
-![alt text](SS_percobaan1.png)
-![alt text](SS_percobaan2.png)
-![alt text](SS_percobaan3.png)
-![alt text](SS_percobaan4.png)
 
-#### 2.2.3 pertanyaan
+#### 2.2.4 pertanyaan
 
 * **Pertanyaan 1:** Jelaskan fungsi operator ||, &&, dan ! pada kondisi program tersebut ?
   * **Jawab:** fungsi || digunakan untuk operator atau, memilih diatara dua variabelyang ada, fungsi && adalahn operator dan, mengharus kan dua variabel untuk benar jika ingin output true. dan fungsi ! digunakan untuk menegasikan sebuah bilangan.
@@ -177,7 +176,6 @@ public class nestedakseslab15 {
 #### 2.3.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![HASIL](SS_2.png)
 
 
 #### 2.3.3 Jawaban Pertanyaan / Pertanyaan Refleksi
@@ -329,4 +327,4 @@ public class calonasisten15 {
 
 ## 4: KESIMPULAN
 
-Nested IF adalah kode program yang penting dalam pemilihan lanjutan, dimana kita bisa mengatur bagaimana jalan nya program, apakah setelah menentukan jumlah, maka perlu kearah mana, serta efifsensi input dengan memasukkan input kedalam code if.
+Tuliskan paragraf kesimpulan di sini. Secara singkat, struktur pemilihan sangat penting digunakan untuk mengatur alur jalannya program (*flow control*) berdasarkan variabel atau pilihan yang ditentukan oleh pengguna.

@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class kafedowhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        int kopi, teh, roti,totalharga;
+        int kopi, teh, roti, totalharga;
         String namaPelanggan;
         int hargaKopi = 12000;
         int hargaTeh = 7000;

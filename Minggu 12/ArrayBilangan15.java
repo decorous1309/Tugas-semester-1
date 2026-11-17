@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class ArrayBilangan15 {
     public static void main(String[] args) {
         int[] bil = new int[4];
@@ -11,7 +12,6 @@ public class ArrayBilangan15 {
         for (int nilai : bil) {
             System.out.println(nilai);
         }
-        import java.util.Arrays;
         System.out.println(Arrays.toString(bil));
     }
 }
